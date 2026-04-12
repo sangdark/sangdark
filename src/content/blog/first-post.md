@@ -1,16 +1,84 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "CX怎样为初创企业赋能"
+description: "How CX can play value in startups"
+pubDate: "Jul 05 2020"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+CX (Cutomer Experience)这个概念提出较早，已经不是新鲜名词，但现在他的价值仍被很多初创企业甚至已经发展成熟，所谓对体验设计依赖程度小的公司所忽略，这将会阻碍公司和设计师的发展，很多公司在项目成熟再找咨询设计公司做CX，这其实已经在填补缺失的那块木板造成的漏水，那么，今天就说下自己的对初创公司利用CX创造更多用户体验价值乃至完成投资转换，提一下自己的看法。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+先讲一个实例，我在某家车企任职的时候，第一代车机设计前期整个设计团队做了大量的用户调研工作，产出了用户体验调查报告，但领导后期推翻了整个产品思路，开始启动某家知名咨询公司做第一代车机的设计，这并不存在根本性问题，问题出在哪里？他们在视觉上做了大量工作，作为一个完全颠覆者形象，设计了一个用户操作学习曲线相当高的设计，以致于后期很难开展用户体验工作，直到下一代车机，才重启了用户体验为主的设计方案，这造成了相当的浪费，无论是内部还是外部，内部这个方案使设计师丧失了对用户体验研究的兴趣，外部，丢失了很大一部分种子用户，这种为短暂的商业目的而舍弃用户体验的方法也立刻尝到了恶果，车卖的很不好，我现在很想知道，这个锅我们作为设计部门要不要背？（黑人问号脸.jpg）
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+这反映了一个在初创企业极具代表性的矛盾，领导希望产出设计价值，希望提高NPS备注1，但是初创企业没有一个清晰的公司策略，产品策略也是产品经理拍脑袋想出来多的，在这种迎合之中，造成了设计师的困惑，设计其实在整个大流程中是非常下游的，公司策略和产品策略并不清晰的情况下，设计师有时真的是也只能去追波找一些非常花哨的视觉设计拼命做飞机稿。
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+这其实就是很多公司的现状。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+公司发展策略一定要清晰，什么是0到1，什么是1到10，公司目前什么问题，解决对策，这些都需要公司策略制定者有相当的认识与规划，以便于设计师可以系统的开始工作，提高CLV，并把设计价值转化为投资价值。实际上，设计价值可以直接降低ROI的比例，完美完成设计价值的转变。
+
+具体可以做到的有四点：
+
+延长顾客生命周期价值
+通过改善的长期顾客关系创造持久的业务价值
+ 
+扩展顾客网络
+
+通过激励忠实的顾客成为“品牌粉丝”来建立更广阔的顾客网络
+ 
+
+提升资本支出效率
+
+为顾客解决实际问题，让投资收益最大化
+ 
+
+构建商业生态系统
+与外部合作伙伴为提升体验展开合作
+
+延长顾客生命周期价值
+
+吸引一位新顾客的成本要比保留一位现有顾客高5到25倍。 因为获取新顾客的成本非常高，所以维
+
+持顾客忠诚度带来的价值不可忽视，体验在这之中的作用至关重要。 我们的最终目标是维持不断增
+
+长的、快乐且忠诚的顾客群体，这需要我们给顾客提供一次又一次回来的理由。
+
+扩展顾客网络
+
+受到社交媒体的影响，人们比以往都更愿意去分享他们的体验，这将给品牌带来十足的价值。好
+
+评、亲友间的推荐以及社交媒体分享将为品牌在不增加获客成本的同时带来更多的顾客。调查显
+
+示，40%的消费者会在一段愉快体验后在线上进行分享，而80%的消费者会向他们的亲友推荐。
+
+更好的体验将让顾客更愿意与他人分享他们的体验，扩大您的潜在顾客群。”
+
+相比之下，三分之二的消费者会在一段糟糕体验后阻止他们身边的人从同一品牌进行消费。9
+
+任何有关体验的糟糕反馈都将对品牌形象带来严重的影响，而这种影响需要一家企业花费大量的
+
+时间和精力来修复。一般来说，一个差评造成的10 影响需要大约40个正面评价才能抵消。
+
+提升资本支出效率
+
+作为一项指标，CAPEX (Capital Expenditure，资本性支出）对公司的增长潜力具有重大影响，通常
+
+会提供更多改善或探索的机会。 但是，要从CAPEX 获得可观回报，我们需要知道顾客会做出何种回应。 要了解这一点，首先应该根据顾客的利益出发，这意味着要以体验思维来主导。当我们以顾客为中心时，我们就可以将资本更有效地投入到那些真正对提升体验有所帮助的事情上，最终帮助资本支出效率得到提高，企业从而获得更高的回报。 比如说经常会大量投资的电信产业，据报道，仅在2019年第一季度，电信公司就在 CAPEX 上花费了约700亿美元。电信运营商长期以来一直使用技术来引导其业务，定期并大量投资网络部署以确保速度和质量，然后向顾客收取费用。 不幸的是，行业报告经常表明，他们花掉的大部分钱都浪费了。
+
+其实隐性成本可以降低，这完全依赖于用户体验。
+
+构建商业生态系统
+
+出色的体验还将帮助从内到外整合企业，围绕建立长期的顾客关系这个统一目标发展。 由于业务目
+
+标的不一致和对顾客需求的关注不足，企业常常难以实现这一目标。 而体验思维将顾客置于所有重要决策的核心，从而推动整个组织内以及与合作伙伴和供应商生态系统之间的一致性。
+
+备注1:
+
+NPS（Net Promoter Score的简称）是一种非常具体的调查，由一个单一的问题组成，问客户他们有多大可能会推荐一个品牌，产品或服务。根据回答，客户被分成3组。
+
+贬损批评者(0-6)是那些对产品或服务不满意的人。他们更有可能分享负面评论，而且由于社交媒体的存在，这会影响他人对产品的看法；被动满意者(7-8)对产品或服务持中立态度ーー他们并不讨厌它，但也不急于向其他人推荐。他们可能会流失并转向竞品；推荐支持者(9-10)会拥护产品。这些客户对产品很满意，并且对品牌很忠诚。他们愿意把产品介绍给他们的朋友。
+
+备注2:
+
+顾客生命周期价值 Customer LifetimeValue 
+
+(单一顾客年度产生收益）×（顾客关系年数）-（顾客获取及保留成本）= CLV
