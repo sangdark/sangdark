@@ -5,93 +5,383 @@ pubDate: "Jul 15 2022"
 heroImage: "/blog-placeholder-4.jpg"
 ---
 
-# DARK SANG
+# DARK
 
-## Design Director | Senior User Experience Design Expert
+## Design Director  
+### Senior User Experience Design Expert
 
-**Personal website:** [www.darksang.com](http://www.darksang.com) | **UXGO Lab:** [uxglobal.com](http://uxglobal.com)
-
-As a senior design director, I possess over 20 years of design and management experience across multiple fields, including consumer electronics, Internet plus, and smart cars. I excel in building top-tier design teams and design systems from scratch, leading large-scale and complex B2B and B2C product design strategies, driving brand experience upgrades and commercial success. I have excellent leadership skills and communication abilities in multinational and cross-cultural teams.
-
-## Core Competency
-
-- **Design leadership:** Design strategic planning | Design team building and management (10+ people) | Design process optimization | Budget and resource management | Customer relationship and pre-sales support
-- **Professional Insights:** HMI/UX Design Strategy | Design Language System (DLS) Creation | User Research | Interaction Framework Design | Visual and Brand Identity | Forward-looking Innovation Research
-- **Business Impact:** Successfully delivered over 50 large-scale projects | Empowered multiple brands with high-end transformation | Increased design efficiency by over 30% | Reduced development network costs
-
-## Project achievements and honors
-
-- Nomination Award of 2022 A' Design Award (an international authoritative award in the field of design)
-- Founder of UXGO Lab: Establishing the world's first HMI database, demonstrating industry leadership and forward-looking vision.
-- Industry influence: As a speaker, I was invited to attend the Automotive Display Technology and Human-Machine Interface Summit and the Future Automotive Materials Summit to share design insights.
-
-## Educational Background
-
-Graduated from the Art Department of Zhejiang University of Media and Communications in 2001
-
-## Main professional experience
-
-### Freelancer | 2024.01 - now
-
-- **Commercial Vehicle Project** - Responsible for the overall design and guidance of commercial and passenger vehicle projects, coordinating UE/UI design schemes. Leading the design of commercial vehicle HMI systems (UE/UI), promoting the visualization and prototype implementation of complex interaction logic (based on Figma programming).
-- **Design System** - Writing and maintaining UI Library and Design Guide, ensuring the consistency and scalability of the design system.
-- **Robotics Project** - Deeply involved in the early definition of the product, collaborating with decision-makers to clarify the strategic direction of the product, leading the drafting of the Product Requirements Document (PRD) and Feature List, and driving the product concept from ambiguity to clarity. Responsible for the user experience design of robot products across the entire lifecycle, encompassing HMI, robot central control screen, and the interaction and visual design of supporting apps.
-- **Artificial Intelligence and Autonomous Vessel Navigation Project** - Led the design of the client's brand image system and the HMI interface for autonomous vessel navigation. Fully responsible for the creative design from brand identity (logo/website/business card) to core products (autonomous vessel navigation HMI) and managing a small project team.
-- Established the HMI design team for VOYAH OS from scratch, responsible for talent selection, team building, and capability development.
-- Developed the HMI design strategy and language specifications for the Lantau vehicle series, led the overall HMI experience design for flagship models 37 and 53, and ensured the implementation of their high-end brand positioning.
-- Established cross-departmental collaborative design processes and review mechanisms to enhance the quality of design output and project advancement efficiency.
-
-### BYD | Senior Design Expert / Design Team Leader | 2022.01 - 2023.05
-
-- Led the strategic definition and system-level implementation of HMI visual language for multiple high-end electric vehicle brands (DENZA, AITO), helping the brands achieve breakthroughs.
-- Led the development and implementation of visual interaction design specifications for the entire BYD vehicle range, establishing a unified and scalable design standard for the group to reduce collaboration costs across multiple projects.
-- As the core of design decision-making, I reviewed BU-level innovation proposals and engaged in strategic communication with overseas suppliers and internal senior management on behalf of the design team.
-
-### Qianyi Automobile & WM Motor | Design Director / UX Design Manager | 2016.03 - 2022.01
-
-- Fully responsible for the design management of the HMI product line, encompassing the entire process from early functional definition and UX strategy to UI visual implementation.
-- Led Chinese and international design teams to successfully complete multiple OEM projects (such as Bojun and Nezha). Successfully delivered a complete HMI solution from concept to mass production, including creating an industry-leading card-style 3D interactive design language for brands such as Zeekr.
-- Led the construction of the design document system (PD, UFR) to ensure efficient and seamless collaboration between design, development, and product.
-
-### Shanghai HP / Tecno Telecom / Alibaba | Senior Design Expert | 2007 - 2016
-
-- In multinational corporations (HP) and rapidly growing technology companies (Tecno, Alibaba), I accumulated profound experience in full-chain design, laying a solid foundation for future leadership positions.
-
-## Selected Project Highlights
-
-### Artificial Intelligence and Autonomous Ship Driving Company
-
-**From Zero to One: Building an HMI Design System and Brand Visual Language for the AI Navigation Era**
-
-- **Achievement:** Lead the HMI design of the ship's core product (AI auto drive system), brand KV design and implementation, material and other design.
-
-### VOYAH OS HMI Design
-
-**From scratch: The HMI design system and team foundation of VOYAH OS**
-
-- **Achievement:** Built an HMI design team from scratch, developed HMI design strategy and language specifications, led the HMI experience design of flagship models, established cross-departmental collaboration processes.
-
-### Zeekr / WM Motor / Qianyi Automobile
-
-**Leading the Intelligent Cabin Experience: Innovative HMI Design from Concept to Mass Production**
-
-- **My role:** Design Director / UX Design Manager
-- **Served clients:** ZEEKR, WM Motor, NATA, Bojun, SCANIA, VOSWAGEN, etc.
-- **Project duration:** 2016 - 2022
-
-### Additional notable work
-
-- **Geely × Unreal Engine | Forward-looking Conceptual Design and Real-time 3D Interactive Verification** - Breaking the boundaries between virtuality and reality: Defining a new paradigm for the next generation of real-time 3D interaction.
-- **China-Chic style in-car UI | Modern interactive translation of cultural symbols** - Let culture flow through your fingertips: An interactive dialogue between tradition and modernity.
-- **TECNO Mobile | Defining the Visual and Interactive Language of the Flagship Brand** - The Breakthrough of Interactive Design: An Innovative Design Followed by the Industry.
-- **Xiaomi Watch App | UX Visualization Challenges of Multi-source Sensor Data** - Turning a thousand sensors into invisibility: Reconstructing the aesthetics of data interaction in smart wearables.
-- **SAP Enterprise Applications | User Experience Optimization for Complex B2B Systems** - The power of simplifying complexity: A revolution in efficiency for reshaping enterprise software.
-- **Volkswagen HMI | Functional design and interaction logic definition for global projects** - Global collaboration, local insight: driving interactive innovation for world-class brands.
-
-> The above is just a summary of some projects. Welcome to visit my online portfolio website to view more detailed cases and design processes: [https://www.darksang.com/portfolio2024](https://www.darksang.com/portfolio2024)
+**Personal website:**  
+www.darksang.com  
+UXGO Lab: uxgolab.com  
 
 ---
 
-*Thanks for Reading*
+## Profile
 
-Welcome to visit the following websites and official accounts to learn more.
+As a senior design director, I possess over 20 years of design and management experience across multiple fields, including consumer electronics, Internet plus, and smart cars.  
+
+I excel in building top-tier design teams and design systems from scratch, leading large-scale and complex B2B and B2C product design strategies, driving brand experience upgrades and commercial success.  
+
+I have excellent leadership skills and communication abilities in multinational and cross-cultural teams.
+
+---
+
+## Project Achievements and Honors
+
+- Nomination Award of 2022 A' Design Award (an international authoritative award in the field of design)  
+
+- Founder of UXGO Lab: Establishing the world's first HMI database, demonstrating industry leadership and forward-looking vision.  
+
+- Industry influence: As a speaker, I was invited to attend the Automotive Display Technology and Human-Machine Interface Summit and the Future Automotive Materials Summit to share design insights.  
+
+---
+
+## Main Professional Experience
+
+### Freelancer  
+**2024.01 - now**
+
+#### Commercial Vehicle Project
+- Responsible for the overall design and guidance of commercial and passenger vehicle projects  
+- Coordinating UE/UI design schemes  
+- Leading the design of commercial vehicle HMI systems (UE/UI)  
+- Promoting the visualization and prototype implementation of complex interaction logic (based on Figma programming)  
+- Design System: Writing and maintaining UI Library and Design Guideline, ensuring consistency and scalability  
+
+#### Robotics Project
+- Deeply involved in early product definition  
+- Collaborated with decision-makers to clarify strategic direction  
+- Led drafting of Product Requirements Document (PRD) and Feature List  
+- Drove product concept from ambiguity to clarity  
+
+- Responsible for user experience design across full lifecycle:  
+  - HMI (Human-Machine Interface)  
+  - Robot central control screen  
+  - Supporting apps interaction & visual design  
+
+- Ensured consistent cross-device experience and usability  
+
+- Oversaw design quality and implementation effectiveness  
+- Served as product experience design lead  
+- Facilitated efficient implementation at software and hardware levels  
+
+#### Artificial Intelligence and Autonomous Vessel Navigation Project
+- Led brand image system design  
+- Led autonomous vessel HMI interface design  
+- Responsible for full creative scope:
+  - Brand identity (logo / website / business card)  
+  - Core product HMI  
+- Managed small project team  
+
+---
+
+### VOYAH Auto | Design Director  
+**2023.06 - 2024.01**
+
+- Established HMI design team for VOYAH OS from scratch  
+- Responsible for talent selection, team building, capability development  
+
+- Developed HMI design strategy and language specifications  
+- Led overall HMI experience design for flagship models 37 and 53  
+
+- Ensured implementation of high-end brand positioning  
+
+- Established cross-department collaborative processes  
+- Built review mechanisms to improve quality and efficiency  
+
+---
+
+### BYD | Senior Design Expert / Design Team Leader  
+**2022.01 - 2023.05**
+
+- Led strategic definition and system-level implementation of HMI visual language  
+- Covered multiple high-end EV brands (DENZA, AITO)  
+
+- Developed and implemented full vehicle visual interaction design specifications  
+
+- Built unified and scalable design standards  
+- Reduced collaboration costs across multiple projects  
+
+- Reviewed BU-level innovation proposals  
+- Conducted strategic communication with overseas suppliers and senior management  
+
+---
+
+### Qianyi Automobile & WM Motor  
+**Design Director / UX Design Manager**  
+**2016.03 - 2022.01**
+
+- Responsible for full HMI product line design management  
+- Covered:
+  - Functional definition  
+  - UX strategy  
+  - UI implementation  
+
+- Led Chinese and international design teams  
+
+- Delivered complete HMI solutions from concept to mass production  
+
+- Created industry-leading card-style 3D interaction language (Zeekr etc.)  
+
+- Led construction of design documentation system (PD, UFR)  
+- Ensured seamless collaboration between design, development, product  
+
+---
+
+### Shanghai HP / Tecno Telecom / Alibaba  
+**Senior Design Expert**  
+**2007 - 2016**
+
+- Accumulated full-chain design experience  
+- Built solid foundation for leadership roles  
+
+---
+
+## Core Competency
+
+### Design Leadership
+- Design strategic planning  
+- Team building and management (10+ people)  
+- Process optimization  
+- Budget & resource management  
+- Customer relationship & pre-sales support  
+
+### Professional Insights
+- HMI / UX design strategy  
+- Design Language System (DLS)  
+- User research  
+- Interaction framework design  
+- Visual & brand identity  
+- Innovation research  
+
+### Business Impact
+- Delivered 50+ large-scale projects  
+- Enabled multiple brand premium transformations  
+- Improved design efficiency by 30%+  
+- Reduced development rework costs  
+
+---
+
+## Educational Background
+
+Graduated from the Art Department of Zhejiang University of Media and Communications in 2001  
+
+---
+
+## Additional Information
+
+### Languages
+- English (fluent in business communication)  
+- German (basic level)  
+
+### Skills
+- Figma  
+- Sketch  
+- Adobe CS  
+- 3D Rendering  
+- Design programming (Figma API, frontend coding)  
+
+---
+
+# Project Cases
+
+---
+
+## A Robotics Company in Shanghai
+
+### From Zero to One: Making Robots "Sensory, Visible, and Interactive"
+
+The Comprehensive Construction of HMI Design System and Brand Visual Language  
+
+At the beginning of joining, I was tasked with two fronts:  
+- Establishing an HMI design system for robot products from scratch  
+- Shaping the brand visual language in intelligent hardware  
+
+I spearheaded:
+- Design strategy  
+- Interaction framework  
+- Product definition alignment  
+- PRD and feature list writing  
+
+Created:
+- User-friendly and context-aware interface system  
+
+Responsible for:
+- Central control screen  
+- APP feature list documentation  
+- Interaction & visual design  
+- Cross-device consistency  
+
+Established:
+- Agile collaboration with engineering teams  
+- Full design quality control  
+
+---
+
+### Role
+Product Design Director  
+
+---
+
+### Achievement
+
+- Lead HMI design for intelligent perception & autonomous navigation system  
+- Mobile APP function / interaction / visual design  
+- Static and dynamic emoji system  
+- Product material design  
+- Feature list  
+- User Journey Map  
+
+---
+
+## Artificial Intelligence and Autonomous Ship Driving Company
+
+### From Zero to One: Building HMI Design System for AI Navigation Era
+
+- Built HMI strategy for autonomous navigation  
+- Designed for maritime scenarios with high reliability  
+
+- Built brand system:
+  - Logo  
+  - Website  
+  - Business identity  
+
+- Established agile collaboration between:
+  - Design  
+  - Algorithm teams  
+  - Engineering  
+
+---
+
+### Role
+Design Director  
+
+---
+
+### Achievement
+
+- Lead ship AI autopilot HMI design  
+- Brand KV design  
+- Material design  
+
+---
+
+## VOYAH OS HMI Design
+
+### From Scratch: HMI System & Team Foundation
+
+- Built HMI design team  
+- Defined design language  
+- Established workflow  
+
+- Designed flagship models with:
+  - Luxury  
+  - Technology  
+  - Emotional UX  
+
+---
+
+### Role
+Senior Design Director  
+
+---
+
+### Achievement
+
+- Built HMI team from zero  
+- Defined strategy & language  
+- Led flagship HMI design  
+- Built cross-team collaboration  
+
+---
+
+## BYD HMI Design
+
+### Driving Brand Advancement
+
+- Defined HMI visual strategy for high-end brands  
+- Built scalable DLS system  
+
+- Reduced R&D and collaboration cost  
+- Led strategic communication  
+
+---
+
+### Role
+Senior Design Expert / Team Leader  
+
+---
+
+### Achievement
+
+- Defined visual language strategy  
+- Built full-vehicle design specification  
+- Led global design communication  
+
+---
+
+## Zeekr / WM Motor / Qianyi Automobile
+
+### Intelligent Cabin Experience
+
+- Designed card-style 3D interaction system  
+- Delivered multiple OEM HMI solutions  
+- Built PD/UFR system  
+
+---
+
+## Other Projects
+
+---
+
+### Geely × Unreal Engine
+- Real-time 3D HMI interaction design  
+- POC validation  
+
+---
+
+### China-Chic In-Car UI
+- Cultural symbol transformation  
+- Original visual system  
+
+---
+
+### TECNO Mobile
+- Flagship UX design  
+- Industry-influencing interaction innovation  
+
+---
+
+### Xiaomi Watch App
+- Multi-source sensor data visualization  
+
+---
+
+### SAP Enterprise Applications
+- Complex B2B UX optimization  
+
+---
+
+### Volkswagen HMI
+- Global collaboration UX design  
+- Workflow & interaction definition  
+
+---
+
+## Portfolio
+
+https://www.darksang.com/portfolio2024  
+https://www.darksang.com/portfolio2024  
+
+---
+
+## Note
+
+Due to confidentiality agreements, some projects cannot be publicly displayed.  
+Face-to-face discussions are available.  
+
+---
+
+## Thanks
+
+Thanks for Reading
