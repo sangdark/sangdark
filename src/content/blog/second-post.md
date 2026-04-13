@@ -371,7 +371,6 @@ Senior Design Expert / Team Leader
 ## Portfolio
 
 https://www.darksang.com/portfolio2024  
-https://www.darksang.com/portfolio2024  
 
 ---
 
